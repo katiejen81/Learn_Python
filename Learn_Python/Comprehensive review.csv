@@ -1,0 +1,15 @@
+Python Symbol,What it does
+#,Line comment
+print,prints the text or numbers to the console
++,Adds numbers or concatenates strings
+>< <= >=,greater than less than operands
+‘-*/,"mathematical operators (subtract, multiply, divide)"
+%s,replace with a designated string
+%d,replace with a designated number
+%,list or identification of variables to replace placeholders
+=,sets variables or resolves mathematical formulas
+‘,identifies a string
+“,identifies a string
+(),groups together values to be evaluated together
+True False,"Boolean operators, they are a special data type"
+%r,placeholder for raw text. This will print exactly what the user puts in the variable
